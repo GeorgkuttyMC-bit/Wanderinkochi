@@ -1,0 +1,6 @@
+{
+  "name": "Wander in Kochi — Creator Talent Portal",
+  "description": "Official content creator recruitment portal for Wander in Kochi (@wander.in.kochi). Apply to join our storytelling team and send your application directly via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
