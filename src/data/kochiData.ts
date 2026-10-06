@@ -1,3 +1,11 @@
+import heroCreatorImg from '../assets/images/hero_fort_kochi_creator_1791273141556.jpg';
+import culinaryReelsImg from '../assets/images/showcase_culinary_reels_1791273157721.jpg';
+import heritageWalksImg from '../assets/images/showcase_heritage_walks_1791273170129.jpg';
+import waterMetroImg from '../assets/images/showcase_water_metro_1791273181973.jpg';
+import streetFoodHostImg from '../assets/images/ig_reel_street_food_kochi_1791274543381.jpg';
+import kathakaliCultureImg from '../assets/images/ig_post_kathakali_culture_1791274573169.jpg';
+import kadamakkudySunsetImg from '../assets/images/ig_reel_kadamakkudy_sunset_1791274586127.jpg';
+
 export const WANDER_INSTAGRAM_URL =
   'https://www.instagram.com/wander.in.kochi?stkn=MWc3NXB0NnMwbmw5dQ%3D%3D&utm_source=qr';
 
@@ -7,13 +15,13 @@ export const TARGET_WHATSAPP_INTL = '918891396469';
 export const TARGET_WHATSAPP_DISPLAY = '+91 88913 96469';
 
 export const ASSETS = {
-  heroCreator: '/src/assets/images/hero_fort_kochi_creator_1791273141556.jpg',
-  culinaryReels: '/src/assets/images/showcase_culinary_reels_1791273157721.jpg',
-  heritageWalks: '/src/assets/images/showcase_heritage_walks_1791273170129.jpg',
-  waterMetro: '/src/assets/images/showcase_water_metro_1791273181973.jpg',
-  streetFoodHost: '/src/assets/images/ig_reel_street_food_kochi_1791274543381.jpg',
-  kathakaliCulture: '/src/assets/images/ig_post_kathakali_culture_1791274573169.jpg',
-  kadamakkudySunset: '/src/assets/images/ig_reel_kadamakkudy_sunset_1791274586127.jpg',
+  heroCreator: heroCreatorImg,
+  culinaryReels: culinaryReelsImg,
+  heritageWalks: heritageWalksImg,
+  waterMetro: waterMetroImg,
+  streetFoodHost: streetFoodHostImg,
+  kathakaliCulture: kathakaliCultureImg,
+  kadamakkudySunset: kadamakkudySunsetImg,
 };
 
 export const OPEN_HOST_ROLE = {
